@@ -1,0 +1,4 @@
+# Dependências do projeto Health Search
+# O sistema .NET usa NuGet para os pacotes abaixo.
+
+UglyToad.PdfPig==1.7.0-custom-5
